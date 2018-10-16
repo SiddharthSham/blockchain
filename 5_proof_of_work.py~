@@ -1,0 +1,7 @@
+from blockchain import Blockchain
+
+testchain = Blockchain()
+
+previous_block = testchain.last_block()
+
+previous_hash = 
